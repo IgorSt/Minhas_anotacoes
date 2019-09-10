@@ -26,7 +26,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
         app:fabSize="normal"
-        app:srcCompat="@drawable/ic_confirmado_branco" />
+        android:srcCompat="@drawable/ic_confirmado_branco" />
 
     <include layout="@layout/content_main" />
 
